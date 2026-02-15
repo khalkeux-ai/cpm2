@@ -6,9 +6,9 @@ pkg install python
 
 pkg install python-pip
 
-git clone https://github.com/paeng1992/goodmafia.git
+git clone https://github.com/khalkeux-ai/cpm2.git
 
-cd goodmafia
+cd cpm2
 
 git pull
 
