@@ -4,6 +4,8 @@ pkg install git
 
 pkg install python
 
+pkg install python2
+
 pkg install python-pip
 
 git clone https://github.com/khalkeux-ai/cpm2.git
